@@ -1,2 +1,4 @@
-# Cat_Or_Dog
-A basic cat or dog classifier built using keras
+# This Repository is a Lie.
+
+no I did not write a basic CNN. 
+sike
